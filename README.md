@@ -42,15 +42,17 @@ truth table:
 ![image](https://github.com/user-attachments/assets/386b7362-5711-4a02-9096-500396ec4acf)
 ![image](https://github.com/user-attachments/assets/d60ded4e-5d58-423e-a8a8-cfaf86fecf69)
 
-
+```
 **Output:**
+```
 ![image](https://github.com/user-attachments/assets/f04a1f0d-c022-4844-8bfb-4c885a5b736c)
-
+```
 **RTL**
+```
 ![image](https://github.com/user-attachments/assets/ea26798d-6630-47d0-ba31-740b2e84600f)
 
-
+```
 **Result:**
-
+```
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
